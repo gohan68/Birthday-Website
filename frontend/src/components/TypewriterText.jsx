@@ -2,7 +2,7 @@ import { TypeAnimation } from 'react-type-animation';
 import { motion } from 'framer-motion';
 
 export const TypewriterText = () => {
-  const message = `My love, today is your day — the day the world was blessed with you.
+  const message = `My lovely wifeyy, today is your day, the day the world was blessed with you.
 
 Every moment with you feels softer than a sunrise and sweeter than a slow song.
 
@@ -10,9 +10,9 @@ You bring light into my darkest times, laughter into my silent days, and peace i
 
 Thank you for loving me, for choosing me, and for being the most beautiful part of my life.
 
-On your birthday, I promise to hold your heart gently, love you endlessly, and stand by you always — today, tomorrow, and every day after.
+On your birthday, I promise to hold your heart gently, love you endlessly, and stand by you always today, tomorrow, and every day after.
 
-Happy Birthday, my heart. You deserve happiness that never ends. ❤️`;
+Happy Birthday Kuttyma. You deserve happiness that never ends. ❤️`;
 
   return (
     <motion.div

@@ -68,7 +68,7 @@ export const BirthdayPage = () => {
           className="text-center pb-8 px-4"
         >
           <p className="text-sm text-muted-foreground">
-            Made with ❤️ by <span className="font-semibold">Sharukesh</span>
+            Made with ❤️ by <span className="font-semibold">Sharukesh (Your lovely husband)</span>
           </p>
         </motion.footer>
       </div>
