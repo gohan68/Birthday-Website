@@ -6,25 +6,24 @@ import { Button } from './ui/button';
 export const PhotoCarousel = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
-  // Placeholder images - beautiful romantic/birthday themed
+  // Personal photos with captions
   const photos = [
     {
-      src: "/images/1.jpg",
+      url: "/images/1.jpg",
       caption: 'En cutieee wifeyy'
     },
     {
-      src: "/images/2.jpg",
+      url: "/images/2.jpg",
       caption: 'Should take pics like these more!'
     },
     {
-      src: "/images/3.jpg",
+      url: "/images/3.jpg",
       caption: 'Married Couple vibes ( En chellam wifeyyy)'
     },
     {
-      src: "/images/4.jpg",
+      url: "/images/4.jpg",
       caption: 'The cheek Kiss '
-    },
-
+    }
   ];
 
   const next = () => {
