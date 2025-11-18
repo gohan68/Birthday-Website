@@ -27,7 +27,7 @@ export const BackgroundMusic = ({ autoPlay = false }) => {
 
   return (
     <div className="fixed bottom-6 right-6 z-50">
-      <audio ref={audioRef} src="/music/blue-instrumental.mp3" loop />
+      <audio ref={audioRef} src="/music/Blue-Yung-Kai.mp3" loop />
       <motion.button
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.95 }}

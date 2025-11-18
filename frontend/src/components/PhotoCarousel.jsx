@@ -9,37 +9,22 @@ export const PhotoCarousel = () => {
   // Placeholder images - beautiful romantic/birthday themed
   const photos = [
     {
-      url: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&h=600&fit=crop',
-      caption: 'Our first adventure together'
+      src: "/images/1.jpg",
+      caption: 'En cutieee wifeyy'
     },
     {
-      url: 'https://images.unsplash.com/photo-1464047736614-af63643285bf?w=800&h=600&fit=crop',
-      caption: 'Sunset moments with you'
+      src: "/images/2.jpg",
+      caption: 'Should take pics like these more!'
     },
     {
-      url: 'https://images.unsplash.com/photo-1522093537031-3ee69e6b1746?w=800&h=600&fit=crop',
-      caption: 'Making memories'
+      src: "/images/3.jpg",
+      caption: 'Married Couple vibes ( En chellam wifeyyy)'
     },
     {
-      url: 'https://images.unsplash.com/photo-1519741497674-611481863552?w=800&h=600&fit=crop',
-      caption: 'Your beautiful smile'
+      src: "/images/4.jpg",
+      caption: 'The cheek Kiss '
     },
-    {
-      url: 'https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&h=600&fit=crop',
-      caption: 'Celebrating us'
-    },
-    {
-      url: 'https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=800&h=600&fit=crop',
-      caption: 'Forever moments'
-    },
-    {
-      url: 'https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&h=600&fit=crop',
-      caption: 'Happiness with you'
-    },
-    {
-      url: 'https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?w=800&h=600&fit=crop',
-      caption: 'Sweet memories'
-    }
+
   ];
 
   const next = () => {
